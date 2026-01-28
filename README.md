@@ -1,2 +1,2 @@
-# Unity_Runtime_TileMap_Building_System
-System that allow players to build during the runtime, main features: Tile per tile build, Set of tiles build.
+# Unity-TileMap-Build-System
+Personal project, its a basic system that allow the player build with tiles on a tilemap using just clicks.

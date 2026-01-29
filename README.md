@@ -1,17 +1,27 @@
 # Unity-TileMap-Build-System
-Personal project, its a basic system that allow the player build with tiles on a tilemap using just clicks.
 
-Main features:
-- Preview of selected tiles.
-- Multiselection tiles.
-- Mouse based input.
+Personal project.  
+It's a basic system that allows the player to build with tiles on a tilemap using only clicks.
+
+## Main features
+- Preview of selected tiles  
+- Multi-selection of tiles  
+- Mouse-based input  
 
 Under development.
 
-Preview:
+## Quick setup
+The setup is very straightforward:  
+just add the **`TMBS_InGameTileMapBuilding`** component to a GameObject, assign the required references (Tilemap, Grid, Input Actions), and you're ready to start building.
 
-![Preview](Screenshots/DraggSelection.png)
-![Preview](Screenshots/AppliedSelected.png)
-![Preview](Screenshots/SelectedAreaToErase.png)
-![Preview](Screenshots/EraseArea.png)
-![Preview](Screenshots/noDebug.png)
+## Preview
+
+![Drag Selection](Screenshots/DraggSelection.png)
+
+![Applied Selection](Screenshots/AppliedSelected.png)
+
+![Selected Area to Erase](Screenshots/SelectedAreaToErase.png)
+
+![Erase Area](Screenshots/EraseArea.png)
+
+![No Debug](Screenshots/noDebug.png)

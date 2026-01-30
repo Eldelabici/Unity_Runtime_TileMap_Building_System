@@ -12,7 +12,7 @@ Under development.
 
 ## Quick setup
 The setup is very straightforward:  
-just add the **`TMBS_InGameTileMapBuilding`** component to a GameObject, assign the required references (Tilemap, Grid, Input Actions), and you're ready to start building.
+just add the **`TMBS_InGameTileMapBuilding`** component to a GameObject with a TileMap component and t he father of such GameObject should have a Grid, assign the required references (Tilemap, Grid, Input Actions), and you're ready to start building.
 
 ## Preview
 

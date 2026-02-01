@@ -20,6 +20,8 @@
 *.mdb
 *.opendb
 *.VC.db
+LICENSE.meta
+README.md.meta
 
 # =========================
 # Rider / Visual Studio / VSCode
